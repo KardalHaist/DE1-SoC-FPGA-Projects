@@ -11,11 +11,11 @@ Two small VHDL designs for the Terasic DE1-SoC board (Intel Cyclone V, `5CSEMA5F
 
 <img src="media/combo_lock_unlocked.jpg" width="360" alt="Combo lock on the DE1-SoC with LEDR9 lit (unlocked)">
 
-Combo lock running on the board: correct code lights LEDR9, wrong code lights LEDR0. Full video: [`media/combo
+Combo lock running on the board: correct code lights LEDR9, wrong code lights LEDR0. Full video: 
 
 https://github.com/user-attachments/assets/e819115f-8635-41a2-9c7d-236cf73371c4
 
-_lock_demo.mp4`](media/combo_lock_demo.mp4)
+*Okay I Promise I was not pressing that hard, in the video it sounds like I am trying to break it lol! No FPGA's were harmed...
 
 ## Repo layout
 
