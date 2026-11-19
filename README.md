@@ -1,4 +1,4 @@
-# DE1-SoC FPGA Projects (ECE 1551 Digital Logic)
+# DE1-SoC FPGA Projects (ECE 1551 Digital Logic Final Project)
 
 Two small VHDL designs for the Terasic DE1-SoC board (Intel Cyclone V, `5CSEMA5F31C6`), built in Quartus Prime Lite 24.1 for ECE 1551 Digital Logic at Florida Tech (Spring 2026).
 
