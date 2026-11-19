@@ -15,7 +15,7 @@ Combo lock running on the board: correct code lights LEDR9, wrong code lights LE
 
 https://github.com/user-attachments/assets/e819115f-8635-41a2-9c7d-236cf73371c4
 
-*Okay I Promise I was not pressing that hard, in the video it sounds like I am trying to break it lol! No FPGA's were harmed...
+*Okay I Promise I was not pressing that hard, in the video it sounds like I am trying to break it lol! These basic buttons are harder to press than it looks, I was also holding my phone in other hand. No FPGA's were harmed...
 
 ## Repo layout
 
